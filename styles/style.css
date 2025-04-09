@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root{
-    --cor-primaria: #DCD7C9; 
+    --cor-primaria: #FDF7F4; 
     --cor-secundaria: #2C3930;
     --cor-terciaria: #006A67;
     --cor-hover: #C1CFA1; 
@@ -45,9 +45,8 @@ text-decoration: none;
 .apresentacao{
     display: flex;
     padding: 5% 15%;  
-    align-items: center;
     justify-content: space-between;
-    gap: 82px;
+    gap: 50px;
 }
 
 .apresentacao__conteudo{
@@ -109,7 +108,7 @@ text-decoration: none;
 }
 
 .apresentacao__imagem{
-    width: 50%;
+    width: 40%;
 }
 
 .rodape {
